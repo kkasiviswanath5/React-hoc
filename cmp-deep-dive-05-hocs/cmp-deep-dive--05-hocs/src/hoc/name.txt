@@ -1,1 +1,1 @@
-folder create AUX.js fle  and copy this _Aux.js ode
+in hoc folder create Aux.js file and copy -Aux.js code into Aux.js
